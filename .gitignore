@@ -1,0 +1,5 @@
+*.xlsx
+*.sav
+.pytest_cache
+plugins/read/xlsx/test_xlsx.xlsx
+plugins/read/sav/test_sav.sav

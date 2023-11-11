@@ -1,0 +1,79 @@
+READ_QUALTRICS:
+  step_type:
+    readfile
+  files:
+    qualtrics:
+      filename: CEO Qualtrics.sav
+      filetype: sav
+    daat:
+      filename: CEO DAAT.sav
+      filetype: sav
+INITIALCLEANING:
+  step_type:
+    cleaning
+  apply_to:
+    - qualtrics
+  steps:
+    ceo_1:
+      rename_variable:
+        variable_new: ceo1
+    ceo_2:
+      rename_variable:
+        variable_new: ceo2
+    ceo_3:
+      rename_variable:
+        variable_new: ceo3
+    ceo_4:
+      rename_variable:
+        variable_new: ceo4
+    ceo_5:
+      rename_variable:
+        variable_new: ceo5
+    ceo_6:
+      rename_variable:
+        variable_new: ceo6
+    ceo_7:
+      rename_variable:
+        variable_new: ceo7
+    ceo_8:
+      rename_variable:
+        variable_new: ceo8
+    ceo_9:
+      rename_variable:
+        variable_new: ceo9
+    ceo_10:
+      rename_variable:
+        variable_new: ceo10
+    ceo1:
+      type: int
+      set_missing_values:
+        missing_values: [98, 99]
+    ceo2:
+      based_on: ceo1
+    ceo3:
+      based_on: ceo1
+    ceo4:
+      based_on: ceo1
+    ceo5:
+      based_on: ceo1
+    ceo6:
+      based_on: ceo1
+    ceo7:
+      based_on: ceo1
+    ceo8:
+      based_on: ceo1
+    ceo9:
+      based_on: ceo1
+    ceo10:
+      based_on: ceo1
+FIRSTTRANSFORMATION:
+  step_type:
+      transformation
+  steps:
+    remove_vars:
+      remove_variables:
+        remove_variables: [StartDate, EndDate, Status, IPAddress, Progress, Finished, RecordedDate, ResponseId, RecipientLastName, RecipientFirstName, RecipientEmail, ExternalReference, LocationLatitude, LocationLongitude, DistributionChannel, UserLanguage, Duration__in_seconds_]
+    voeg_gemeente_toe:
+      constant:
+        variable: gemeente
+        value: GM2233dfgdfgd

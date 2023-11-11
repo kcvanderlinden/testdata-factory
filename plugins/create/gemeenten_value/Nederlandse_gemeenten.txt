@@ -1,0 +1,345 @@
+s-Hertogenbosch 	0796 	Noord-Brabant 	158.952 	109,99 	1.445 	20,9% 	9,1% 	11,8% 	1	
+Aa en Hunze 	1680 	Drenthe 	25.728 	276,09 	93 	6,7% 	4,2% 	2,5% 		31,1
+Aalsmeer 	0358 	Noord-Holland 	33.071 	20,12 	1.644 	20,4% 	11,3% 	9,1% 		35,3
+Aalten 	0197 	Gelderland 	27.269 	96,54 	282 	11,4% 	8,0% 	3,4% 		28,6
+Achtkarspelen 	0059 	Friesland 	28.110 	102,23 	275 	4,5% 	2,3% 	2,2% 		26,1
+Alblasserdam 	0482 	Zuid-Holland 	20.399 	8,78 	2.323 	15,1% 	7,0% 	8,1% 		29,4
+Albrandswaard 	0613 	Zuid-Holland 	26.349 	21,69 	1.215 	21,5% 	7,9% 	13,6% 		35,2
+Alkmaar 	0361 	Noord-Holland 	111.878 	110,46 	1.013 	22,6% 	9,8% 	12,9% 		29,1
+Almelo 	0141 	Overijssel 	74.034 	67,27 	1.101 	26,3% 	10,4% 	15,9% 		26,3
+Almere 	0034 	Flevoland 	223.183 	129,19 	1.728 	43,8% 	10,9% 	32,9% 		29,4
+Alphen aan den Rijn 	0484 	Zuid-Holland 	114.313 	126,23 	906 	20,8% 	9,4% 	11,4% 		31,4
+Alphen-Chaam 	1723 	Noord-Brabant 	10.462 	93,04 	112 	14,5% 	11,8% 	2,8% 		33
+Altena 	1959 	Noord-Brabant 	57.776 	200,63 	288 	7,5% 	4,7% 	2,8% 		31,1
+Ameland 	0060 	Friesland 	3.834 	59,11 	65 	8,1% 	6,5% 	1,6% 		
+Amersfoort 	0307 	Utrecht 	160.902 	62,62 	2.569 	25,1% 	8,9% 	16,1% 		31,5
+Amstelveen 	0362 	Noord-Holland 	94.396 	41,13 	2.295 	45,8% 	19,7% 	26,1% 		33,5
+Amsterdam 	0363 	Noord-Holland 	922.679 	165,50 	5.575 	55,6% 	19,5% 	36,1% 		29,4
+Apeldoorn 	0200 	Gelderland 	167.205 	339,89 	492 	18,1% 	8,4% 	9,7% 		29,7
+Arnhem 	0202 	Gelderland 	165.896 	97,82 	1.696 	32,8% 	11,8% 	21,0% 		26,1
+Assen 	0106 	Drenthe 	69.426 	81,89 	848 	16,2% 	8,0% 	8,3% 		27,7
+Asten 	0743 	Noord-Brabant 	17.267 	70,17 	246 	11,3% 	7,6% 	3,7% 		30,3
+Baarle-Nassau 	0744 	Noord-Brabant 	7.080 	76,14 	93 	25,8% 	22,7% 	3,1% 		31,2
+Baarn 	0308 	Utrecht 	25.032 	32,54 	769 	18,5% 	9,8% 	8,6% 		37,4
+Barendrecht 	0489 	Zuid-Holland 	48.807 	19,75 	2.471 	25,2% 	7,8% 	17,4% 		34,3
+Barneveld 	0203 	Gelderland 	61.769 	175,90 	351 	8,9% 	4,1% 	4,8% 		31,1
+Beek 	0888 	Limburg 	16.152 	21,03 	768 	15,2% 	10,3% 	5,0% 		30,4
+Beekdaelen 	1954 	Limburg 	35.941 	78,30 	459 	15,7% 	12,4% 	3,3% 		30,3
+Beesel 	0889 	Limburg 	13.450 	27,99 	481 	16,9% 	11,2% 	5,7% 		28,5
+Berg en Dal 	1945 	Gelderland 	35.439 	86,31 	411 	14,5% 	10,2% 	4,3% 		29,6
+Bergeijk 	1724 	Noord-Brabant 	19.089 	101,00 	189 	10,8% 	8,1% 	2,6% 		32,7
+Bergen 	0893 	Limburg 	13.100 	103,24 	127 	15,8% 	12,9% 	2,9% 		28,9
+Bergen 	0373 	Noord-Holland 	30.133 	98,96 	304 	13,6% 	9,8% 	3,9% 		37,3
+Bergen op Zoom 	0748 	Noord-Brabant 	68.970 	79,96 	863 	25,7% 	10,4% 	15,3% 		29,0
+Berkelland 	1859 	Gelderland 	43.992 	258,06 	170 	8,0% 	5,0% 	2,9% 		29,3
+Bernheze 	1721 	Noord-Brabant 	32.277 	89,73 	360 	9,2% 	6,2% 	3,0% 		31,9
+Best 	0753 	Noord-Brabant 	30.883 	34,30 	900 	17,5% 	9,9% 	7,6% 		32,9
+Beuningen 	0209 	Gelderland 	26.576 	43,65 	609 	13,1% 	7,6% 	5,4% 		31,3
+Beverwijk 	0375 	Noord-Holland 	42.678 	18,40 	2.319 	27,7% 	12,1% 	15,6% 		28,7
+Bladel 	1728 	Noord-Brabant 	21.020 	75,33 	279 	10,5% 	7,3% 	3,3% 		31,4
+Blaricum 	0376 	Noord-Holland 	12.486 	11,11 	1.124 	19,8% 	10,8% 	8,9% 		50,7
+Bloemendaal 	0377 	Noord-Holland 	23.932 	39,79 	601 	19,2% 	13,9% 	5,3% 		51,7
+Bodegraven-Reeuwijk 	1901 	Zuid-Holland 	36.303 	75,38 	482 	13,4% 	6,6% 	6,9% 		34,7
+Boekel 	0755 	Noord-Brabant 	11.204 	34,51 	325 	8,3% 	6,2% 	2,2% 		31,3
+Bonaire 	9001 	Caribisch Nederland 	22.573 	288 	78 					
+Borger-Odoorn 	1681 	Drenthe 	25.915 	274,53 	94 	6,4% 	4,3% 	2,1% 		28,5
+Borne 	0147 	Overijssel 	24.518 	26,00 	943 	11,0% 	6,3% 	4,8% 		30,5
+Borsele 	0654 	Zeeland 	23.164 	141,57 	164 	9,5% 	6,5% 	3,0% 		30,6
+Boxtel 	0757 	Noord-Brabant 	33.828 	63,73 	531 	16,9% 	8,4% 	8,5% 		30,3
+Breda 	0758 	Noord-Brabant 	186.504 	125,74 	1.483 	24,2% 	11,5% 	12,8% 		30,3
+Bronckhorst 	1876 	Gelderland 	36.261 	283,50 	128 	6,1% 	4,1% 	2,0% 		32,8
+Brummen 	0213 	Gelderland 	21.109 	83,65 	252 	12,1% 	6,1% 	6,0% 		30,7
+Brunssum 	0899 	Limburg 	27.647 	17,25 	1.603 	24,1% 	18,5% 	5,6% 		26,3
+Bunnik 	0312 	Utrecht 	15.997 	36,97 	433 	13,2% 	7,6% 	5,6% 		35,2
+Bunschoten 	0313 	Utrecht 	22.502 	30,38 	741 	11,7% 	6,3% 	5,3% 		31,9
+Buren 	0214 	Gelderland 	27.719 	133,89 	207 	8,7% 	5,9% 	2,8% 		33
+Capelle aan den IJssel 	0502 	Zuid-Holland 	67.513 	14,14 	4.775 	36,2% 	11,3% 	24,9% 		29,1
+Castricum 	0383 	Noord-Holland 	36.298 	49,68 	731 	11,7% 	7,1% 	4,5% 		35,5
+Coevorden 	0109 	Drenthe 	35.741 	296,07 	121 	9,2% 	5,3% 	3,9% 		28,7
+Cranendonck 	1706 	Noord-Brabant 	20.879 	76,40 	273 	18,2% 	11,5% 	6,7% 		31,3
+Culemborg 	0216 	Gelderland 	29.732 	29,29 	1.015 	23,7% 	9,3% 	14,3% 		30,9
+Dalfsen 	0148 	Overijssel 	29.599 	165,07 	179 	5,9% 	3,3% 	2,6% 		31,2
+Dantumadeel 	1891 	Friesland 	19.173 	84,66 	226 	4,5% 	2,2% 	2,4% 		26,5
+De Bilt 	0310 	Utrecht 	43.871 	66,12 	664 	18,3% 	9,7% 	8,6% 		36,2
+De Friese Meren 	1940 	Friesland 	51.993 	351,29 	148 	8,2% 	4,6% 	3,6% 		28,7
+De Ronde Venen 	0736 	Utrecht 	45.664 	99,92 	457 	17,1% 	8,9% 	8,2% 		35,8
+De Wolden 	1690 	Drenthe 	24.585 	224,55 	109 	5,3% 	3,2% 	2,2% 		30,3
+Delft 	0503 	Zuid-Holland 	106.184 	22,65 	4.688 	36,7% 	15,2% 	21,5% 		28,2
+Den Haag 	0518 	Zuid-Holland 	562.446 	82,45 	6.822 	55,6% 	19,3% 	36,3% 		
+Den Helder 	0400 	Noord-Holland 	56.524 	45,25 	1.249 	20,5% 	9,8% 	10,7% 		26,4
+Deurne 	0762 	Noord-Brabant 	33.010 	116,93 	282 	9,7% 	5,8% 	3,9% 		29,5
+Deventer 	0150 	Overijssel 	102.831 	130,68 	787 	22,3% 	9,1% 	13,2% 		27,6
+Diemen 	0384 	Noord-Holland 	32.786 	11,99 	2.734 	47,9% 	17,5% 	30,4% 		29,5
+Dinkelland 	1774 	Overijssel 	26.746 	175,71 	152 	8,1% 	5,9% 	2,2% 		30,8
+Doesburg 	0221 	Gelderland 	11.073 	11,53 	960 	20,3% 	9,6% 	10,8% 		26,8
+Doetinchem 	0222 	Gelderland 	59.265 	79,05 	750 	14,7% 	7,4% 	7,3% 		28,0
+Dongen 	0766 	Noord-Brabant 	27.252 	29,24 	932 	14,0% 	7,0% 	7,0% 		29,8
+Dordrecht 	0505 	Zuid-Holland 	121.563 	78,54 	1.548 	30,7% 	11,6% 	19,1% 		27,9
+Drechterland 	0498 	Noord-Holland 	20.413 	58,89 	347 	11,0% 	7,0% 	4,0% 		31,0
+Drimmelen 	1719 	Noord-Brabant 	28.030 	95,18 	294 	9,8% 	6,8% 	3,0% 		31,3
+Dronten 	0303 	Flevoland 	43.523 	333,57 	130 	17,6% 	8,5% 	9,1% 		29,0
+Druten 	0225 	Gelderland 	19.532 	37,64 	519 	12,6% 	6,4% 	6,2% 		29,6
+Duiven 	0226 	Gelderland 	24.986 	33,90 	737 	14,7% 	8,4% 	6,2% 		29,6
+Echt-Susteren 	1711 	Limburg 	32.001 	103,07 	310 	17,4% 	13,2% 	4,1% 		29,0
+Edam-Volendam 	0385 	Noord-Holland 	36.812 	54,33 	678 	9,5% 	4,4% 	5,1% 		33,0
+Ede 	0228 	Gelderland 	122.140 	318,18 	384 	15,9% 	7,2% 	8,8% 		30,0
+Eemnes 	0317 	Utrecht 	9.618 	31,04 	310 	14,0% 	7,6% 	6,4% 		33,7
+Eemsdelta 	1979 	Groningen 	45.317 	267,89 	169 	% 	% 	% 		33,7
+Eersel 	0770 	Noord-Brabant 	19.995 	82,46 	242 	9,8% 	6,5% 	3,3% 		35,0
+Eijsden-Margraten 	1903 	Limburg 	26.010 	77,55 	335 	13,3% 	10,6% 	2,8% 		32,1
+Eindhoven 	0772 	Noord-Brabant 	243.669 	87,66 	2.780 	37,5% 	15,4% 	22,1% 		28,9
+Elburg 	0230 	Gelderland 	24.010 	63,82 	376 	6,4% 	3,5% 	2,9% 		28,3
+Emmen 	0114 	Drenthe 	108.852 	335,18 	325 	12,4% 	6,9% 	5,4% 		26,2
+Enkhuizen 	0388 	Noord-Holland 	18.873 	12,68 	1.488 	16,9% 	9,5% 	7,4% 		28,2
+Enschede 	0153 	Overijssel 	161.194 	140,83 	1.145 	30,3% 	12,8% 	17,5% 		25,4
+Epe 	0232 	Gelderland 	33.246 	156,07 	213 	11,8% 	6,2% 	5,7% 		29,6
+Ermelo 	0233 	Gelderland 	27.516 	85,63 	321 	11,2% 	6,0% 	5,2% 		31,1
+Etten-Leur 	0777 	Noord-Brabant 	44.652 	55,30 	807 	19,5% 	9,6% 	9,9% 		29,4
+Geertruidenberg 	0779 	Noord-Brabant 	22.104 	26,63 	830 	10,7% 	6,4% 	4,3% 		29,7
+Geldrop-Mierlo 	1771 	Noord-Brabant 	40.484 	31,01 	1.306 	17,9% 	9,6% 	8,3% 		30,0
+Gemert-Bakel 	1652 	Noord-Brabant 	31.364 	122,14 	257 	11,3% 	7,8% 	3,5% 		29,3
+Gennep 	0907 	Limburg 	17.771 	47,62 	373 	14,1% 	9,7% 	4,4% 		28,6
+Goeree-Overflakkee 	1924 	Zuid-Holland 	51.579 	260,48 	198 	7,0% 	4,2% 	2,8% 		30,3
+Goes 	0664 	Zeeland 	39.432 	92,58 	426 	16,4% 	8,6% 	7,8% 		28,9
+Goirle 	0785 	Noord-Brabant 	24.204 	42,99 	563 	11,6% 	6,8% 	4,8% 		31,2
+Gorinchem 	0512 	Zuid-Holland 	38.506 	18,83 	2.045 	26,6% 	10,0% 	16,6% 		28,8
+Gouda 	0513 	Zuid-Holland 	75.298 	16,50 	4.564 	26,3% 	9,2% 	17,1% 		28,9
+Groningen 	0014 	Groningen 	238.016 	185,60 	1.282 	24,7% 	12,6% 	12,1% 		25,7
+Gulpen-Wittem 	1729 	Limburg 	14.177 	73,18 	194 	14,1% 	11,7% 	2,4% 		29,3
+Haaksbergen 	0158 	Overijssel 	24.494 	104,82 	234 	12,5% 	6,7% 	5,8% 		29,2
+Haarlem 	0392 	Noord-Holland 	165.650 	29,17 	5.679 	30,8% 	14,3% 	16,5% 		30,3
+Haarlemmermeer 	0394 	Noord-Holland 	162.344 	197,48 	822 	28,5% 	11,7% 	16,8% 		32,6
+Halderberge 	1655 	Noord-Brabant 	31.020 	74,47 	417 	15,9% 	7,9% 	8,0% 		29,5
+Hardenberg 	0160 	Overijssel 	62.579 	312,28 	200 	6,9% 	3,8% 	3,1% 		27,9
+Harderwijk 	0243 	Gelderland 	48.946 	38,89 	1.259 	19,2% 	6,9% 	12,2% 		28,7
+Hardinxveld-Giessendam 	0523 	Zuid-Holland 	18.678 	16,91 	1.105 	7,5% 	3,6% 	3,9% 		29,4
+Harlingen 	0072 	Friesland 	16.192 	24,96 	649 	12,4% 	7,6% 	4,8% 		26,0
+Hattem 	0244 	Gelderland 	12.569 	23,08 	545 	8,0% 	4,5% 	3,5% 		31,5
+Heemskerk 	0396 	Noord-Holland 	39.451 	27,34 	1.443 	20,9% 	9,5% 	11,3% 		29,8
+Heemstede 	0397 	Noord-Holland 	27.766 	9,18 	3.025 	20,2% 	13,1% 	7,1% 		40,5
+Heerde 	0246 	Gelderland 	19.227 	78,74 	244 	6,1% 	3,4% 	2,8% 		
+Heerenveen 	0074 	Friesland 	51.654 	190,09 	272 	12,3% 	5,5% 	6,8% 		
+Heerlen 	0917 	Limburg 	87.116 	44,94 	1.938 	29,1% 	18,4% 	10,7% 		
+Heeze-Leende 	1658 	Noord-Brabant 	16.640 	104,02 	160 	11,1% 	7,6% 	3,5% 		
+Heiloo 	0399 	Noord-Holland 	24.280 	18,70 	1.298 	13,1% 	8,1% 	5,0% 		
+Hellendoorn 	0163 	Overijssel 	36.245 	137,91 	263 	7,0% 	4,1% 	2,9% 		
+Helmond 	0794 	Noord-Brabant 	94.967 	53,18 	1.786 	27,8% 	14,2% 	13,6% 		
+Hendrik-Ido-Ambacht 	0531 	Zuid-Holland 	32.176 	10,61 	3.033 	14,8% 	6,3% 	8,5% 		
+Hengelo 	0164 	Overijssel 	82.384 	60,84 	1.354 	23,3% 	9,7% 	13,6% 		
+Het Hogeland 	1966 	Groningen 	48.255 	482,75 	100 	7,7% 	4,4% 	3,3% 		
+Heumen 	0252 	Gelderland 	16.779 	39,76 	422 	14,0% 	9,1% 	4,8% 		
+Heusden 	0797 	Noord-Brabant 	45.854 	78,88 	581 	14,5% 	7,9% 	6,6% 		
+Hillegom 	0534 	Zuid-Holland 	22.518 	12,87 	1.750 	18,5% 	11,6% 	6,9% 		
+Hilvarenbeek 	0798 	Noord-Brabant 	15.956 	94,85 	168 	8,1% 	5,6% 	2,5% 		
+Hilversum 	0402 	Noord-Holland 	93.396 	45,61 	2.048 	29,1% 	14,0% 	15,1% 		
+Hoeksche Waard 	1963 	Zuid-Holland 	89.846 	268,93 	334 	9,4% 	5,4% 	4,1% 		
+Hof van Twente 	1735 	Overijssel 	35.450 	212,56 	167 	9,3% 	5,7% 	3,7% 		
+Hollands Kroon 	1911 	Noord-Holland 	49.387 	357,34 	138 	12,0% 	8,5% 	3,5% 		
+Hoogeveen 	0118 	Drenthe 	56.437 	127,54 	443 	11,1% 	5,8% 	5,3% 		
+Hoorn 	0405 	Noord-Holland 	75.240 	20,38 	3.692 	24,4% 	9,5% 	14,9% 		
+Horst aan de Maas 	1507 	Limburg 	43.642 	188,73 	231 	12,1% 	9,1% 	3,0% 		
+Houten 	0321 	Utrecht 	50.593 	54,94 	921 	16,0% 	7,4% 	8,6% 		
+Huizen 	0406 	Noord-Holland 	41.215 	15,81 	2.607 	21,2% 	10,0% 	11,2% 		
+IJsselstein 	0353 	Utrecht 	33.501 	21,07 	1.590 	20,8% 	7,3% 	13,5% 		
+Kaag en Braassem 	1884 	Zuid-Holland 	28.590 	63,24 	452 	11,9% 	6,7% 	5,2% 		
+Kampen 	0166 	Overijssel 	55.650 	142,18 	391 	10,2% 	4,3% 	6,0% 		
+Kapelle 	0678 	Zeeland 	13.029 	37,13 	351 	9,8% 	6,2% 	3,6% 		
+Katwijk 	0537 	Zuid-Holland 	66.635 	24,75 	2.692 	11,5% 	5,8% 	5,7% 		
+Kerkrade 	0928 	Limburg 	45.642 	21,91 	2.083 	32,1% 	25,2% 	6,9% 		
+Koggenland 	1598 	Noord-Holland 	23.517 	80,32 	293 	8,7% 	5,0% 	3,7% 		
+Krimpen aan den IJssel 	0542 	Zuid-Holland 	29.501 	7,69 	3.836 	16,6% 	7,5% 	9,1% 		
+Krimpenerwaard 	1931 	Zuid-Holland 	57.729 	148,40 	389 	11,4% 	5,4% 	6,0% 		
+Laarbeek 	1659 	Noord-Brabant 	23.253 	55,35 	420 	9,4% 	6,6% 	2,7% 		
+Land van Cuijk 	1982 	Noord-Brabant 	91.489 	351,87 	260 	12,3% 	6,9% 	5,4% 		
+Landgraaf 	0882 	Limburg 	37.146 	24,58 	1.511 	23,1% 	18,4% 	4,7% 		
+Landsmeer 	0415 	Noord-Holland 	11.688 	22,53 	519 	18,1% 	9,2% 	8,9% 		
+Lansingerland 	1621 	Zuid-Holland 	64.737 	53,42 	1.212 	18,9% 	7,5% 	11,3% 		
+Laren 	0417 	Noord-Holland 	11.724 	12,41 	945 	20,6% 	14,2% 	6,4% 		
+Leeuwarden 	0080 	Friesland 	127.064 	238,38 	533 	17,7% 	7,9% 	9,9% 		
+Leiden 	0546 	Zuid-Holland 	127.046 	21,91 	5.799 	32,2% 	15,2% 	17,0% 		
+Leiderdorp 	0547 	Zuid-Holland 	27.723 	11,58 	2.394 	22,1% 	9,9% 	12,2% 		
+Leidschendam-Voorburg 	1916 	Zuid-Holland 	77.798 	32,55 	2.390 	32,4% 	14,8% 	17,6% 		
+Lelystad 	0995 	Flevoland 	83.192 	230,32 	361 	32,7% 	10,9% 	21,8% 		
+Leudal 	1640 	Limburg 	36.106 	162,73 	222 	13,0% 	9,9% 	3,1% 		
+Leusden 	0327 	Utrecht 	31.514 	58,54 	538 	14,2% 	8,1% 	6,2% 		
+Lingewaard 	1705 	Gelderland 	47.241 	62,00 	762 	10,7% 	6,8% 	3,9% 		
+Lisse 	0553 	Zuid-Holland 	23.373 	15,69 	1.490 	14,1% 	8,8% 	5,2% 		
+Lochem 	0262 	Gelderland 	34.302 	213,03 	161 	10,8% 	6,0% 	4,9% 		
+Loon op Zand 	0809 	Noord-Brabant 	23.802 	49,94 	477 	11,4% 	7,1% 	4,3% 		
+Lopik 	0331 	Utrecht 	14.698 	75,57 	194 	9,4% 	4,3% 	5,1% 		
+Losser 	0168 	Overijssel 	23.386 	98,76 	237 	14,6% 	10,9% 	3,7% 		
+Maasdriel 	0263 	Gelderland 	26.041 	66,11 	394 	13,1% 	9,4% 	3,7% 		
+Maasgouw 	1641 	Limburg 	24.358 	45,71 	533 	14,7% 	11,6% 	3,0% 		
+Maassluis 	0556 	Zuid-Holland 	35.346 	8,48 	4.168 	28,6% 	9,1% 	19,5% 		
+Maastricht 	0935 	Limburg 	122.692 	55,99 	2.191 	33,1% 	21,6% 	11,6% 		
+Medemblik 	0420 	Noord-Holland 	46.071 	121,42 	379 	13,2% 	8,1% 	5,1% 		
+Meerssen 	0938 	Limburg 	18.594 	26,96 	690 	12,9% 	9,6% 	3,3% 		
+Meierijstad 	1948 	Noord-Brabant 	83.706 	184,09 	455 	14,5% 	7,8% 	6,7% 		
+Meppel 	0119 	Drenthe 	35.454 	55,53 	638 	12,0% 	5,8% 	6,2% 		
+Middelburg 	0687 	Zeeland 	49.919 	48,42 	1.031 	19,4% 	10,1% 	9,3% 		
+Midden-Delfland 	1842 	Zuid-Holland 	19.449 	47,19 	412 	12,6% 	6,4% 	6,3% 		
+Midden-Drenthe 	1731 	Drenthe 	34.011 	340,51 	100 	7,3% 	4,6% 	2,7% 		
+Midden-Groningen 	1952 	Groningen 	61.573 	280,00 	220 	14,8% 	6,4% 	8,5% 		
+Moerdijk 	1709 	Noord-Brabant 	37.717 	159,15 	237 	12,4% 	7,3% 	5,1% 		
+Montferland 	1955 	Gelderland 	36.891 	105,70 	349 	12,4% 	8,5% 	4,0% 		
+Montfoort 	0335 	Utrecht 	13.911 	37,57 	370 	10,5% 	9,9% 	5,5% 		
+Mook en Middelaar 	0944 	Limburg 	8.024 	17,38 	462 	14,1% 	9,9% 	4,1% 		
+Neder-Betuwe 	1740 	Gelderland 	25.457 	59,98 	424 	8,6% 	5,9% 	2,7% 		
+Nederweert 	0946 	Limburg 	17.476 	99,98 	175 	9,5% 	6,7% 	2,8% 		
+Nieuwegein 	0356 	Utrecht 	65.540 	23,51 	2.788 	27,9% 	10,4% 	17,5% 		
+Nieuwkoop 	0569 	Zuid-Holland 	29.434 	78,05 	377 	11,2% 	6,5% 	4,7% 		
+Nijkerk 	0267 	Gelderland 	45.029 	69,34 	649 	12,1% 	5,4% 	6,7% 		
+Nijmegen 	0268 	Gelderland 	182.399 	53,09 	3.436 	26,5% 	12,1% 	14,4% 		
+Nissewaard 	1930 	Zuid-Holland 	86.857 	73,58 	1.180 	25,3% 	9,5% 	15,8% 		
+Noardeast-Fryslân 	1970 	Friesland 	45.818 	377,83 	121 	5,8% 	3,2% 	2,6% 		
+Noord-Beveland 	1695 	Zeeland 	7.881 	85,96 	92 	13,4% 	10,4% 	3,0% 		
+Noordenveld 	1699 	Drenthe 	31.612 	199,41 	159 	7,9% 	4,6% 	3,3% 		
+Noordoostpolder 	0171 	Flevoland 	49.909 	458,17 	109 	15,8% 	8,1% 	7,8% 		
+Noordwijk 	0575 	Zuid-Holland 	45.258 	58,37 	775 	17,9% 	12,5% 	5,4% 		
+Nuenen c.a. 	0820 	Noord-Brabant 	24.046 	33,71 	713 	13,5% 	9,1% 	4,4% 		
+Nunspeet 	0302 	Gelderland 	28.749 	128,74 	223 	7,1% 	3,6% 	3,5% 		
+Oegstgeest 	0579 	Zuid-Holland 	25.795 	7,31 	3.529 	24,8% 	15,7% 	9,1% 		
+Oirschot 	0823 	Noord-Brabant 	19.197 	101,78 	189 	8,1% 	5,2% 	3,0% 		
+Oisterwijk 	0824 	Noord-Brabant 	32.963 	63,84 	516 	11,5% 	6,6% 	4,9% 		
+Oldambt 	1895 	Groningen 	39.073 	226,66 	172 	11,6% 	7,2% 	4,1% 		
+Oldebroek 	0269 	Gelderland 	24.263 	97,65 	248 	6,0% 	3,4% 	2,6% 		
+Oldenzaal 	0173 	Overijssel 	31.921 	21,55 	1.481 	15,8% 	7,9% 	7,9% 		
+Olst-Wijhe 	1773 	Overijssel 	18.682 	113,84 	164 	8,3% 	4,6% 	3,7% 		
+Ommen 	0175 	Overijssel 	18.955 	179,90 	105 	7,8% 	4,6% 	3,2% 		
+Oost Gelre 	1586 	Gelderland 	29.863 	109,93 	272 	8,4% 	5,2% 	3,1% 		
+Oosterhout 	0826 	Noord-Brabant 	57.466 	71,47 	804 	20,7% 	9,5% 	11,2% 		
+Ooststellingwerf 	0085 	Friesland 	25.854 	223,42 	116 	7,2% 	4,3% 	2,9% 		
+Oostzaan 	0431 	Noord-Holland 	9.719 	11,53 	843 	14,5% 	6,5% 	8,0% 		
+Opmeer 	0432 	Noord-Holland 	12.158 	41,50 	293 	9,4% 	6,4% 	3,0% 		
+Opsterland 	0086 	Friesland 	30.064 	224,40 	134 	6,4% 	3,5% 	2,9% 		
+Oss 	0828 	Noord-Brabant 	94.457 	163,16 	579 	19,4% 	9,4% 	9,9% 		
+Oude IJsselstreek 	1509 	Gelderland 	39.624 	136,15 	291 	13,7% 	7,2% 	6,5% 		
+Ouder-Amstel 	0437 	Noord-Holland 	14.265 	24,08 	592 	28,1% 	13,3% 	14,8% 		
+Oudewater 	0589 	Utrecht 	10.237 	38,90 	263 	8,8% 	4,5% 	4,3% 		
+Overbetuwe 	1734 	Gelderland 	48.703 	109,19 	446 	11,9% 	7,1% 	4,8% 		
+Papendrecht 	0590 	Zuid-Holland 	32.267 	9,41 	3.429 	18,6% 	8,4% 	10,2% 		
+Peel en Maas 	1894 	Limburg 	45.314 	159,37 	284 	11,3% 	7,4% 	3,9% 		
+Pekela 	0765 	Groningen 	12.429 	49,04 	253 	9,1% 	5,9% 	3,1% 		
+Pijnacker-Nootdorp 	1926 	Zuid-Holland 	57.688 	37,08 	1.556 	22,0% 	8,8% 	13,1% 		
+Purmerend 	0439 	Noord-Holland 	94.129 	95,22 	1.004 	27,6% 	9,4% 	18,1% 		
+Putten 	0273 	Gelderland 	24.894 	85,22 	292 	7,9% 	4,4% 	3,5% 		
+Raalte 	0177 	Overijssel 	38.468 	170,99 	225 	6,7% 	3,4% 	3,3% 		
+Reimerswaal 	0703 	Zeeland 	23.265 	101,80 	229 	14,5% 	10,1% 	4,4% 		
+Renkum 	0274 	Gelderland 	31.459 	45,95 	685 	15,6% 	9,7% 	5,9% 		
+Renswoude 	0339 	Utrecht 	5.748 	18,40 	312 	7,3% 	4,2% 	3,1% 		
+Reusel-De Mierden 	1667 	Noord-Brabant 	13.551 	77,88 	174 	9,1% 	6,4% 	2,7% 		
+Rheden 	0275 	Gelderland 	43.522 	81,74 	532 	17,2% 	9,5% 	7,7% 		
+Rhenen 	0340 	Utrecht 	20.332 	42,08 	483 	12,0% 	5,9% 	6,1% 		
+Ridderkerk 	0597 	Zuid-Holland 	47.503 	23,72 	2.003 	20,0% 	7,8% 	12,1% 		
+Rijssen-Holten 	1742 	Overijssel 	38.502 	94,13 	409 	8,1% 	3,0% 	5,2% 		
+Rijswijk 	0603 	Zuid-Holland 	58.050 	13,96 	4.158 	36,8% 	15,2% 	21,5% 		
+Roerdalen 	1669 	Limburg 	20.699 	88,21 	235 	17,6% 	14,0% 	3,6% 		
+Roermond 	0957 	Limburg 	59.992 	60,81 	987 	29,7% 	15,0% 	14,6% 		
+Roosendaal 	1674 	Noord-Brabant 	77.578 	106,50 	728 	26,1% 	11,9% 	14,2% 		
+Rotterdam 	0599 	Zuid-Holland 	664.311 	217,55 	3.053 	52,3% 	13,4% 	38,9% 		
+Rozendaal 	0277 	Gelderland 	1.754 	27,90 	63 	15,4% 	9,9% 	5,5% 		
+Rucphen 	0840 	Noord-Brabant 	23.608 	64,41 	367 	10,3% 	7,1% 	3,2% 		
+Saba 	9003 	Caribisch Nederland 	1.911 	13 	147 					
+Schagen 	0441 	Noord-Holland 	47.477 	168,25 	282 	11,4% 	7,0% 	4,4% 		
+Scherpenzeel 	0279 	Gelderland 	10.393 	13,79 	754 	7,6% 	4,4% 	3,2% 		
+Schiedam 	0606 	Zuid-Holland 	80.723 	17,82 	4.530 	43,7% 	13,9% 	29,8% 		
+Schiermonnikoog 	0088 	Friesland 	982 	40,50 	24 	10,9% 	8,2% 	2,6% 		
+Schouwen-Duiveland 	1676 	Zeeland 	34.521 	229,65 	150 	9,9% 	6,6% 	3,3% 		
+Simpelveld 	0965 	Limburg 	10.361 	16,03 	646 	18,2% 	15,8% 	2,4% 		
+Sint Eustatius 	9002 	Caribisch Nederland 	3.242 	21 	154 					
+Sint-Michielsgestel 	0845 	Noord-Brabant 	30.121 	58,38 	516 	8,7% 	5,4% 	3,3% 		
+Sittard-Geleen 	1883 	Limburg 	92.177 	79,01 	1.167 	22,4% 	15,0% 	7,4% 		
+Sliedrecht 	0610 	Zuid-Holland 	26.211 	12,84 	2.041 	14,7% 	4,9% 	9,8% 		
+Sluis 	1714 	Zeeland 	23.244 	279,36 	83 	28,1% 	24,9% 	3,2% 		
+Smallingerland 	0090 	Friesland 	56.173 	117,31 	479 	11,7% 	5,2% 	6,5% 		
+Soest 	0342 	Utrecht 	47.423 	46,24 	1.026 	21,6% 	8,8% 	12,9% 		
+Someren 	0847 	Noord-Brabant 	20.090 	80,27 	250 	10,1% 	7,4% 	2,7% 		
+Son en Breugel 	0848 	Noord-Brabant 	18.027 	25,95 	695 	13,5% 	9,0% 	4,5% 		
+Stadskanaal 	0037 	Groningen 	32.169 	117,64 	273 	7,9% 	4,7% 	3,2% 		
+Staphorst 	0180 	Overijssel 	17.640 	133,99 	132 	4,6% 	2,5% 	2,1% 		
+Stede Broec 	0532 	Noord-Holland 	22.116 	14,50 	1.525 	13,4% 	8,1% 	5,2% 		
+Steenbergen 	0851 	Noord-Brabant 	24.582 	146,43 	168 	15,3% 	11,4% 	3,8% 		
+Steenwijkerland 	1708 	Overijssel 	45.383 	288,27 	157 	8,8% 	4,7% 	4,1% 		
+Stein 	0971 	Limburg 	24.783 	21,08 	1.176 	14,3% 	10,8% 	3,5% 		
+Stichtse Vecht 	1904 	Utrecht 	65.755 	96,10 	684 	18,8% 	9,2% 	9,6% 		
+Súdwest-Fryslân 	1900 	Friesland 	90.873 	523,01 	174 	9,3% 	5,1% 	4,2% 		
+Terneuzen 	0715 	Zeeland 	54.990 	250,38 	220 	28,0% 	19,8% 	8,2% 		
+Terschelling 	0093 	Friesland 	4.890 	85,26 	57 	7,9% 	6,0% 	1,9% 		
+Texel 	0448 	Noord-Holland 	13.950 	162,00 	86 	11,0% 	7,2% 	3,8% 		
+Teylingen 	1525 	Zuid-Holland 	38.521 	28,38 	1.357 	16,3% 	9,6% 	6,7% 		
+Tholen 	0716 	Zeeland 	26.793 	146,71 	183 	9,4% 	5,7% 	3,7% 		
+Tiel 	0281 	Gelderland 	42.672 	32,88 	1.298 	27,0% 	10,9% 	16,2% 		
+Tietjerksteradeel 	0737 	Friesland 	32.441 	148,86 	218 	6,5% 	3,2% 	3,3% 		
+Tilburg 	0855 	Noord-Brabant 	227.794 	116,17 	1.961 	28,8% 	12,2% 	16,6% 		
+Tubbergen 	0183 	Overijssel 	21.413 	147,00 	146 	4,7% 	3,3% 	1,4% 		
+Twenterand 	1700 	Overijssel 	33.867 	106,17 	319 	5,4% 	3,1% 	2,3% 		
+Tynaarlo 	1730 	Drenthe 	34.603 	143,00 	242 	8,8% 	5,3% 	3,5% 		
+Uitgeest 	0450 	Noord-Holland 	13.441 	19,16 	702 	12,6% 	6,9% 	5,7% 		
+Uithoorn 	0451 	Noord-Holland 	31.406 	18,14 	1.731 	27,1% 	12,3% 	14,7% 		
+Urk 	0184 	Flevoland 	21.847 	13,15 	1.661 	4,2% 	1,6% 	2,5% 		
+Utrecht 	0344 	Utrecht 	368.024 	93,83 	3.922 	36,1% 	12,2% 	23,9% 		
+Utrechtse Heuvelrug 	1581 	Utrecht 	50.353 	132,01 	381 	15,8% 	8,5% 	7,3% 		
+Vaals 	0981 	Limburg 	10.173 	23,89 	426 	52,1% 	46,8% 	5,3% 		
+Valkenburg aan de Geul 	0994 	Limburg 	16.456 	36,73 	448 	15,0% 	11,5% 	3,5% 		
+Valkenswaard 	0858 	Noord-Brabant 	31.548 	54,92 	574 	14,5% 	9,6% 	5,0% 		
+Veendam 	0047 	Groningen 	27.620 	76,00 	363 	13,1% 	5,4% 	7,7% 		
+Veenendaal 	0345 	Utrecht 	68.563 	19,46 	3.523 	18,6% 	6,1% 	12,5% 		
+Veere 	0717 	Zeeland 	22.071 	132,56 	166 	8,8% 	6,2% 	2,6% 		
+Veldhoven 	0861 	Noord-Brabant 	46.452 	31,69 	1.466 	18,4% 	10,4% 	8,0% 		
+Velsen 	0453 	Noord-Holland 	68.857 	45,20 	1.523 	19,5% 	9,9% 	9,6% 		
+Venlo 	0983 	Limburg 	103.312 	124,25 	831 	28,9% 	16,7% 	12,2% 		
+Venray 	0984 	Limburg 	44.648 	163,27 	273 	20,8% 	11,5% 	9,3% 		
+Vijfheerenlanden 	1961 	Utrecht 	60.184 	146,41 	411 	17,0% 	6,3% 	10,7% 		
+Vlaardingen 	0622 	Zuid-Holland 	75.126 	23,57 	3.187 	32,1% 	10,7% 	21,4% 		
+Dijk en Waard 	1980 	Noord-Holland 	89.087 	62,09 	1.435 	34,5% 	15,6% 	18,9% 		
+Gilze en Rijen 	0784 	Noord-Brabant 	26.939 	65,38 	412 	17,0% 	7,9% 	9,1% 		29,4
+Gooise Meren 	1942 	Noord-Holland 	60.423 	41,59 	1.453 	21,7% 	12,5% 	9,2% 		38,2
+Hulst 	0677 	Zeeland 	27.586 	201,71 	137 	28,7% 	25,4% 	3,3% 	Hulst 	
+Maashorst 	1991 	Noord-Brabant 	58.934 	138,24 	426 	% 	% 	% 		
+Molenlanden 	1978 	Zuid-Holland 	45.143 	181,73 	248 	7,0% 	4,0% 	2,9% 		
+Voorne aan Zee 	1992 	Zuid-Holland 	73.993 	174,81 	607 					
+West Betuwe 	1960 	Gelderland 	52.742 	216,12 	244 	9,6% 	5,6% 	4,0% 		
+Vlieland 	0096 	Friesland 	1.254 	39,15 	32 	15,2% 	13,2% 	2,1% 		
+Vlissingen 	0718 	Zeeland 	45.182 	34,31 	1.317 	26,6% 	14,4% 	12,2% 		
+Voerendaal 	0986 	Limburg 	12.419 	31,51 	394 	14,0% 	10,6% 	3,4% 		
+Voorschoten 	0626 	Zuid-Holland 	25.585 	11,14 	2.297 	22,6% 	13,1% 	9,5% 		
+Voorst 	0285 	Gelderland 	25.227 	122,97 	205 	8,3% 	4,9% 	3,4% 		
+Vught 	0865 	Noord-Brabant 	32.113 	33,75 	951 	14,3% 	9,2% 	5,2% 		
+Waadhoeke 	1949 	Friesland 	46.800 	284,86 	164 	9,1% 	5,5% 	3,6% 		
+Waalre 	0866 	Noord-Brabant 	17.965 	22,39 	802 	17,5% 	11,1% 	6,5% 		
+Waalwijk 	0867 	Noord-Brabant 	49.934 	64,58 	773 	19,0% 	10,2% 	8,8% 		
+Waddinxveen 	0627 	Zuid-Holland 	32.690 	27,77 	1.177 	17,5% 	8,0% 	9,5% 		
+Wageningen 	0289 	Gelderland 	41.098 	30,42 	1.351 	28,1% 	14,0% 	14,2% 		
+Wassenaar 	0629 	Zuid-Holland 	27.131 	51,11 	531 	34,3% 	21,9% 	12,3% 		
+Waterland 	0852 	Noord-Holland 	17.623 	52,11 	338 	13,5% 	7,7% 	5,8% 		
+Weert 	0988 	Limburg 	50.874 	104,32 	488 	22,2% 	11,5% 	10,7% 		
+West Maas en Waal 	0668 	Gelderland 	20.082 	76,76 	262 	8,5% 	5,5% 	2,9% 		
+Westerkwartier 	1969 	Groningen 	64.984 	362,69 	179 	7,3% 	4,3% 	3,0% 		
+Westerveld 	1701 	Drenthe 	19.858 	278,35 	71 	6,4% 	4,2% 	2,2% 		
+Westervoort 	0293 	Gelderland 	15.115 	7,03 	2.150 	18,6% 	9,3% 	9,4% 		
+Westerwolde 	1950 	Groningen 	26.331 	275,67 	96 	13,0% 	6,1% 	6,9% 		
+Westland 	1783 	Zuid-Holland 	114.996 	81,27 	1.415 	16,0% 	9,2% 	6,8% 		
+Weststellingwerf 	0098 	Friesland 	26.500 	220,30 	120 	7,8% 	4,1% 	3,8% 		
+Wierden 	0189 	Overijssel 	24.879 	94,63 	263 	7,3% 	4,6% 	2,7% 		
+Wijchen 	0296 	Gelderland 	41.519 	66,18 	627 	12,6% 	7,6% 	5,0% 		
+Wijdemeren 	1696 	Noord-Holland 	24.645 	47,60 	518 	14,4% 	9,0% 	5,4% 		
+Wijk bij Duurstede 	0352 	Utrecht 	24.000 	47,62 	504 	11,8% 	6,4% 	5,5% 		
+Winterswijk 	0294 	Gelderland 	29.250 	138,14 	212 	14,9% 	8,7% 	6,2% 		
+Woensdrecht 	0873 	Noord-Brabant 	22.178 	91,66 	242 	24,0% 	20,5% 	3,5% 		
+Woerden 	0632 	Utrecht 	53.253 	88,57 	601 	15,4% 	6,9% 	8,6% 		
+Wormerland 	0880 	Noord-Holland 	16.606 	38,59 	430 	14,0% 	6,5% 	7,5% 		
+Woudenberg 	0351 	Utrecht 	14.410 	36,53 	3.033 	10,6% 	4,8% 	5,9% 		
+Zaanstad 	0479 	Noord-Holland 	159.806 	73,87 	2.163 	33,3% 	10,9% 	22,3% 		
+Zaltbommel 	0297 	Gelderland 	30.315 	79,38 	382 	13,9% 	7,9% 	6,0% 		
+Zandvoort 	0473 	Noord-Holland 	17.557 	32,12 	547 	23,4% 	14,3% 	9,0% 		
+Zeewolde 	0050 	Flevoland 	23.719 	247,23 	96 	18,4% 	12,8% 	5,6% 		
+Zeist 	0355 	Utrecht 	66.612 	48,51 	1.373 	23,6% 	9,7% 	14,0% 		
+Zevenaar 	0299 	Gelderland 	45.065 	92,60 	487 	14,9% 	10,0% 	4,9% 		
+Zoetermeer 	0637 	Zuid-Holland 	127.047 	34,45 	3.688 	32,1% 	10,9% 	21,2% 		
+Zoeterwoude 	0638 	Zuid-Holland 	9.465 	21,19 	447 	13,1% 	6,6% 	6,4% 		
+Zuidplas 	1892 	Zuid-Holland 	47.114 	58,02 	812 	17,3% 	8,2% 	9,1% 		
+Zundert 	0879 	Noord-Brabant 	22.527 	120,65 	187 	16,0% 	12,4% 	3,6% 		
+Zutphen 	0301 	Gelderland 	48.545 	40,95 	1.185 	18,1% 	8,6% 	9,5% 		
+Zwartewaterland 	1896 	Overijssel 	23.390 	82,49 	284 	6,2% 	3,6% 	2,7% 		
+Zwijndrecht 	0642 	Zuid-Holland 	44.992 	20,30 	2.216 	23,2% 	8,2% 	15,0% 		
+Zwolle 	0193 	Overijssel 	132.454 	111,10 	1.192 	17,4% 	6,8% 	10,5% 		
