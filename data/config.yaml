@@ -8,7 +8,7 @@ CREATE_DF1:
         empty
     Gehuwd:
       custom_value:
-        list_custom_values: ["Nee", "Nee", "Ja"]
+        list_custom_values: ["Nee", "Ja", "Ja"]
     Geschoold:
       custom_value:
         list_custom_values: ["Praktisch", "Onbekend"]
