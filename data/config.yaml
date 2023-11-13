@@ -6,6 +6,9 @@ CREATE_DF1:
     Achternaam:
       achternamen_value:
         empty
+    Gehuwd:
+      custom_value:
+        list_custom_values: ["Nee", "Nee", "Ja"]
     Geschoold:
       custom_value:
         list_custom_values: ["Praktisch", "Onbekend"]
@@ -16,13 +19,25 @@ CREATE_DF1:
       numeriek_value:
         laag: 22500
         hoog: 90000
-    WOZ-waarde huis:
+    Aantal kinderen:
       numeriek_value:
-        laag: 300000
-        hoog: 1000000
+        laag: 1
+        hoog: 5
+    Leeftijd:
+      numeriek_value:
+        laag: 25
+        hoog: 35
+    Geluksfactor:
+      numeriek_value:
+        laag: 0
+        hoog: 100
+    Aantal auto's:
+      numeriek_value:
+        laag: 1
+        hoog: 2
     Favoriete vakantieland:
       custom_value:
-        list_custom_values: ["Griekenland", "Italië"]
+        list_custom_values: ["Griekenland", "Italië", "Nederland", "Duitsland"]
 CREATE_DF2:
   step_type:
     create_columns
@@ -31,6 +46,9 @@ CREATE_DF2:
     Achternaam:
       achternamen_value:
         empty
+    Gehuwd:
+      custom_value:
+        list_custom_values: ["Nee", "Nee", "Ja"]
     Geschoold:
       custom_value:
         list_custom_values: ["Theoretisch"]
@@ -41,10 +59,22 @@ CREATE_DF2:
       numeriek_value:
         laag: 60000
         hoog: 120000
-    WOZ-waarde huis:
+    Aantal kinderen:
       numeriek_value:
-        laag: 200000
-        hoog: 600000
+        laag: 0
+        hoog: 2
+    Leeftijd:
+      numeriek_value:
+        laag: 25
+        hoog: 35
+    Geluksfactor:
+      numeriek_value:
+        laag: 45
+        hoog: 100
+    Aantal auto's:
+      numeriek_value:
+        laag: 0
+        hoog: 2
     Favoriete vakantieland:
       custom_value:
         list_custom_values: ["Nederland", "Duitsland", "Frankrijk", "Engeland"]
