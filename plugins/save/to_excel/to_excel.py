@@ -6,7 +6,7 @@ class Plugin:
         """
         Payload should consist of:
             - df = pandas dataframe to apply plugin to
-            - params: dict with two keys: 
+            - params: dict with one key: 
                 - file_name # a string value
         """
         df = payload['df']

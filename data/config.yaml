@@ -1,23 +1,64 @@
-CREATE_DF:
+CREATE_DF1:
   step_type:
     create_columns
-  amount_values: 100000
+  amount_values: 10000
   steps:
     Achternaam:
       achternamen_value:
+        empty
     Geschoold:
       custom_value:
-        list_custom_values: ["Praktisch", "Theoretisch", "Onbekend"]
+        list_custom_values: ["Praktisch", "Onbekend"]
     Woonplaats:
       gemeenten_value:
+        empty
     Netto inkomen:
       numeriek_value:
         laag: 22500
+        hoog: 90000
+    WOZ-waarde huis:
+      numeriek_value:
+        laag: 300000
+        hoog: 1000000
+    Favoriete vakantieland:
+      custom_value:
+        list_custom_values: ["Griekenland", "Italië"]
+CREATE_DF2:
+  step_type:
+    create_columns
+  amount_values: 5000
+  steps:
+    Achternaam:
+      achternamen_value:
+        empty
+    Geschoold:
+      custom_value:
+        list_custom_values: ["Theoretisch"]
+    Woonplaats:
+      gemeenten_value:
+        empty
+    Netto inkomen:
+      numeriek_value:
+        laag: 60000
         hoog: 120000
+    WOZ-waarde huis:
+      numeriek_value:
+        laag: 200000
+        hoog: 600000
+    Favoriete vakantieland:
+      custom_value:
+        list_custom_values: ["Nederland", "Duitsland", "Frankrijk", "Engeland"]
+DF_CONCAT:
+  step_type:
+    manipulate_dataframe
+  steps:
+    new_df:
+      append:
+        [CREATE_DF1, CREATE_DF2]
 SAVE_DF:
   step_type:
     save_dataframe
   steps:
-    Excel:
+    DF_CONCAT:
       to_excel:
         file_name: "random_dataset"
