@@ -14,5 +14,5 @@ class Plugin:
         """
         df = payload['df']
         params = payload['params']
-        df[payload["kolomnaam"]] = [random.randrange(params['laag'], params['hoog']) for x in range(payload['veelheid'])]
+        df[payload["kolomnaam"]] = [random.randrange(params['laag'], params['hoog']+1) for x in range(payload['veelheid'])]
         return df

@@ -78,6 +78,43 @@ CREATE_DF2:
     Favoriete vakantieland:
       custom_value:
         list_custom_values: ["Nederland", "Duitsland", "Frankrijk", "Engeland"]
+CREATE_DF3:
+  step_type:
+    create_columns
+  amount_values: 300
+  steps:
+    Achternaam:
+      achternamen_value:
+        empty
+    Geschoold:
+      custom_value:
+        list_custom_values: ["Bo - De Ark", "Bo - De Klimboom", "Bo - De Bongert", "Bo - De Klimboom", "Bso - De Giraffe", "So - Peter Pan"]
+    Aantal keer op vakantie geweest:
+      numeriek_value:
+        laag: 0
+        hoog: 4
+    Leeftijd:
+      numeriek_value:
+        laag: 4
+        hoog: 11
+    Rekenen:
+      numeriek_value:
+        laag: 55
+        hoog: 95
+    Taal:
+      numeriek_value:
+        laag: 55
+        hoog: 95
+    Afstand tot school:
+      numeriek_value:
+        laag: 50
+        hoog: 2000
+    Sport:
+      custom_value:
+        list_custom_values: ["Voetbal", "Basketball", "Geen", "Geen", "Atletiek"]
+    Aantal broers of zussen:
+      custom_value:
+        list_custom_values: ["1", "2", "2", "2", "3", "geen"]
 DF_CONCAT:
   step_type:
     manipulate_dataframe
@@ -85,10 +122,17 @@ DF_CONCAT:
     new_df:
       append:
         [CREATE_DF1, CREATE_DF2]
-SAVE_DF:
+SAVE_DF1:
   step_type:
     save_dataframe
   steps:
     DF_CONCAT:
       to_excel:
         file_name: "PowerBI_dataset"
+SAVE_DF2:
+  step_type:
+    save_dataframe
+  steps:
+    CREATE_DF3:
+      to_csv:
+        file_name: "PowerBI_inladen_oefenen"

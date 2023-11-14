@@ -1,0 +1,301 @@
+,Achternaam,Geschoold,Aantal keer op vakantie geweest,Leeftijd,Rekenen,Taal,Afstand tot school,Sport,Aantal broers of zussen
+0,"Velden, van der",Bso - De Giraffe,4,8,62,95,1508,Geen,geen
+1,Bouman,Bo - De Klimboom,1,5,95,94,543,Atletiek,1
+2,Hoogenboom,Bso - De Giraffe,4,5,70,75,1650,Voetbal,2
+3,"Pol, van de",Bso - De Giraffe,2,10,62,60,1055,Geen,3
+4,"Haas, de",Bo - De Ark,3,11,89,89,1658,Atletiek,2
+5,"Heide, van der",Bo - De Klimboom,0,7,79,90,125,Geen,1
+6,"Beek, van de",Bo - De Bongert,4,4,68,85,1826,Basketball,2
+7,Verstappen,Bso - De Giraffe,3,5,78,87,1172,Geen,2
+8,Smits,Bo - De Klimboom,2,5,92,55,1307,Geen,1
+9,Dijkman,So - Peter Pan,0,10,71,71,1429,Basketball,2
+10,Otten,Bso - De Giraffe,3,8,72,94,1334,Geen,3
+11,Habets,Bo - De Klimboom,0,10,67,92,197,Voetbal,3
+12,Hermsen,Bo - De Klimboom,0,4,91,83,1693,Atletiek,1
+13,Mooij,Bo - De Klimboom,0,8,56,63,1547,Geen,geen
+14,"Bie, de",So - Peter Pan,4,5,61,95,190,Geen,2
+15,"Oosten, van",Bo - De Bongert,1,8,89,93,585,Basketball,2
+16,Nijland,Bo - De Klimboom,1,4,84,66,984,Geen,2
+17,Hol,Bo - De Ark,2,11,66,91,1973,Geen,2
+18,"Koning, de",Bo - De Ark,0,5,69,67,1373,Geen,2
+19,"Lee, van der",Bso - De Giraffe,1,10,75,70,684,Basketball,3
+20,Valk,Bso - De Giraffe,4,6,83,94,247,Basketball,1
+21,"Dijk, van",Bo - De Klimboom,2,4,59,95,1780,Basketball,2
+22,Maat,Bo - De Ark,3,8,90,55,242,Basketball,2
+23,"Boer, de",Bo - De Ark,2,9,61,76,1956,Geen,2
+24,Evers,Bo - De Klimboom,2,6,84,95,1993,Geen,2
+25,Verhagen,So - Peter Pan,0,6,66,78,1142,Atletiek,1
+26,"Werff, van der",Bso - De Giraffe,4,11,95,62,657,Geen,2
+27,Hartman,Bo - De Bongert,1,9,59,88,542,Basketball,geen
+28,Ruiter,So - Peter Pan,2,4,57,77,1655,Atletiek,3
+29,Boer,Bo - De Klimboom,3,5,67,77,1663,Voetbal,geen
+30,Donkers,Bo - De Klimboom,1,6,75,91,589,Basketball,2
+31,Aerts,Bo - De Klimboom,4,5,63,82,370,Geen,3
+32,Donker,So - Peter Pan,4,5,55,66,953,Voetbal,2
+33,Bakker,Bo - De Ark,4,10,82,85,674,Voetbal,2
+34,Jans,Bso - De Giraffe,1,7,79,61,70,Voetbal,2
+35,Schmidt,Bso - De Giraffe,3,8,89,62,189,Atletiek,2
+36,"Bie, de",Bo - De Klimboom,1,10,59,77,626,Basketball,2
+37,"Voort, van der",Bo - De Ark,2,5,93,77,1187,Atletiek,2
+38,Hermsen,Bo - De Ark,2,4,80,55,1362,Geen,3
+39,"Wal, van der",Bo - De Bongert,1,6,76,80,271,Geen,2
+40,"Oorschot, van",Bo - De Klimboom,0,6,59,91,658,Atletiek,2
+41,"Hulst, van der",Bso - De Giraffe,4,4,94,77,314,Geen,geen
+42,"Zanden, van der",Bo - De Bongert,2,11,62,61,91,Geen,2
+43,"Dongen, van",Bo - De Klimboom,3,9,64,85,799,Voetbal,1
+44,Hamers,Bo - De Klimboom,3,5,85,63,644,Geen,3
+45,Stolk,Bso - De Giraffe,3,7,89,63,975,Atletiek,1
+46,"Loon, van",Bso - De Giraffe,3,7,94,89,1884,Voetbal,2
+47,Pol,So - Peter Pan,4,8,67,95,354,Atletiek,2
+48,"Goede, de",Bo - De Klimboom,2,10,89,94,1042,Basketball,2
+49,Nijenhuis,So - Peter Pan,1,9,69,67,929,Geen,2
+50,Claassen,Bso - De Giraffe,3,4,82,88,589,Geen,3
+51,"Graaf, de",Bo - De Ark,0,7,67,66,1856,Basketball,geen
+52,Otten,Bo - De Bongert,3,11,73,61,1992,Geen,geen
+53,Habets,Bo - De Ark,1,10,57,74,1550,Geen,2
+54,Verheij,Bo - De Klimboom,4,5,85,58,76,Basketball,2
+55,"Gestel, van",Bo - De Klimboom,2,6,94,81,1091,Atletiek,3
+56,"Wal, van der",So - Peter Pan,1,11,78,58,1123,Geen,2
+57,Vis,Bo - De Klimboom,4,10,81,65,1322,Voetbal,2
+58,"Sande, van de",Bo - De Klimboom,4,10,95,57,889,Basketball,geen
+59,Kerkhof,Bo - De Bongert,2,4,59,85,113,Voetbal,2
+60,Meijers,Bso - De Giraffe,0,8,60,83,883,Geen,2
+61,Prins,Bo - De Klimboom,2,7,92,83,1096,Atletiek,2
+62,"Spek, van der",Bo - De Klimboom,3,7,61,82,1800,Voetbal,2
+63,"Wiel, van de",Bo - De Klimboom,2,7,81,78,533,Atletiek,2
+64,Berkhout,Bso - De Giraffe,2,10,69,82,1440,Geen,2
+65,Oskam,Bso - De Giraffe,0,6,64,87,984,Geen,2
+66,"Burg, van der",Bo - De Ark,0,7,92,81,436,Basketball,3
+67,Albers,Bo - De Klimboom,1,8,56,74,1269,Atletiek,1
+68,Koenen,Bo - De Klimboom,0,10,55,65,778,Geen,2
+69,"Galen, van",Bso - De Giraffe,3,6,55,90,626,Voetbal,2
+70,Peeters,Bo - De Bongert,2,4,83,83,548,Geen,1
+71,"Graaf, de",Bso - De Giraffe,4,5,83,68,364,Basketball,geen
+72,Krijnen,Bo - De Klimboom,2,7,67,91,1765,Voetbal,1
+73,Kessels,Bo - De Bongert,1,10,59,66,1057,Voetbal,2
+74,"Zee, van der",Bo - De Ark,0,7,71,83,1078,Basketball,1
+75,Vis,Bo - De Bongert,1,10,66,74,700,Basketball,1
+76,Hof,Bo - De Klimboom,3,8,76,92,878,Basketball,3
+77,"Dorp, van",Bo - De Bongert,3,9,56,57,425,Voetbal,2
+78,"Hoeven, van der",Bo - De Klimboom,1,9,65,88,872,Atletiek,1
+79,Verhagen,Bo - De Klimboom,3,10,60,58,1551,Geen,2
+80,Verstappen,Bo - De Ark,4,10,79,92,887,Atletiek,2
+81,Pool,Bo - De Klimboom,3,10,75,91,786,Voetbal,2
+82,Hoving,Bo - De Klimboom,1,9,56,84,1603,Basketball,1
+83,"Gool, van",Bo - De Klimboom,1,11,95,73,988,Geen,2
+84,Groenewegen,Bo - De Bongert,2,8,84,89,628,Geen,2
+85,"Wanrooij, van",Bo - De Klimboom,3,7,63,73,1783,Geen,1
+86,Stoop,Bo - De Klimboom,0,7,88,55,1533,Voetbal,geen
+87,"Winter, de",Bo - De Bongert,4,7,82,67,1139,Voetbal,2
+88,Boonstra,Bso - De Giraffe,3,7,92,55,802,Geen,2
+89,"Kooten, van",So - Peter Pan,2,8,82,85,1806,Geen,3
+90,Wessels,So - Peter Pan,3,8,59,89,1184,Basketball,2
+91,"Rooij, van",Bo - De Klimboom,2,8,70,71,342,Voetbal,2
+92,"Vries, de",Bso - De Giraffe,4,11,58,73,1228,Geen,2
+93,Bloem,Bo - De Klimboom,2,6,66,69,328,Voetbal,2
+94,"Haar, ter",Bso - De Giraffe,1,11,82,69,996,Geen,2
+95,"Dijken, van",Bo - De Klimboom,3,7,93,58,1123,Geen,1
+96,Maat,Bo - De Ark,4,6,83,62,1873,Atletiek,geen
+97,"Zeeuw, de",Bo - De Klimboom,4,4,64,94,436,Geen,2
+98,Derks,So - Peter Pan,4,11,94,64,632,Basketball,1
+99,Claassen,Bso - De Giraffe,2,4,60,75,164,Basketball,2
+100,Vervoort,Bo - De Bongert,0,9,85,86,1995,Basketball,2
+101,Mertens,Bo - De Ark,3,4,56,75,468,Voetbal,2
+102,Pieters,Bo - De Ark,2,7,76,81,761,Basketball,geen
+103,Rozema,Bo - De Bongert,0,4,74,82,1777,Atletiek,geen
+104,Kooij,Bo - De Klimboom,1,5,69,57,1457,Basketball,2
+105,Veldkamp,So - Peter Pan,1,7,62,64,1407,Basketball,geen
+106,Schellekens,Bo - De Bongert,3,8,72,77,1810,Geen,2
+107,Veldman,Bo - De Klimboom,4,7,81,84,1260,Basketball,2
+108,Rozema,So - Peter Pan,1,11,62,61,903,Basketball,geen
+109,Schipper,Bo - De Klimboom,3,6,69,66,290,Geen,2
+110,Hoogendoorn,Bo - De Bongert,4,8,63,63,1935,Atletiek,3
+111,"Veen, van",So - Peter Pan,4,6,76,81,1155,Voetbal,2
+112,Prinsen,Bo - De Ark,2,5,79,76,1449,Geen,2
+113,"Tongeren, van",Bo - De Klimboom,2,4,63,85,1789,Geen,3
+114,Stolk,So - Peter Pan,0,4,68,60,353,Voetbal,2
+115,Bogers,Bso - De Giraffe,3,6,64,89,594,Geen,2
+116,Groenewegen,Bso - De Giraffe,1,8,95,88,1832,Geen,2
+117,Kuijper,Bo - De Bongert,4,9,64,90,1713,Atletiek,3
+118,"Werff, van der",Bo - De Klimboom,0,7,90,65,1088,Geen,geen
+119,Hermans,Bo - De Ark,4,10,60,56,1331,Voetbal,1
+120,"Ommen, van",Bo - De Bongert,2,5,55,80,932,Atletiek,2
+121,Hartog,Bso - De Giraffe,1,10,81,62,1035,Atletiek,2
+122,Koelewijn,Bo - De Bongert,4,9,74,64,1291,Geen,1
+123,"Steen, van der",Bo - De Bongert,2,5,56,77,1916,Basketball,2
+124,"Wijk, van",Bo - De Ark,3,8,76,61,1668,Voetbal,2
+125,"Son, van",Bo - De Klimboom,3,10,63,94,1374,Basketball,2
+126,"Hurk, van den",Bo - De Klimboom,2,8,71,87,1185,Basketball,2
+127,Koenen,Bo - De Ark,0,7,70,59,1535,Atletiek,geen
+128,Molenaar,So - Peter Pan,0,10,65,57,892,Geen,2
+129,Nieuwenhuis,Bo - De Bongert,2,6,59,56,1051,Geen,2
+130,Dekkers,Bo - De Ark,0,8,59,61,445,Geen,geen
+131,Kroes,Bo - De Bongert,4,11,77,85,1571,Basketball,2
+132,"Kolk, van der",Bo - De Klimboom,1,9,55,95,1521,Atletiek,2
+133,Burger,So - Peter Pan,3,7,66,84,378,Geen,3
+134,Wijnen,Bo - De Klimboom,4,11,79,83,1582,Atletiek,3
+135,Joosten,Bo - De Bongert,4,10,84,84,1535,Basketball,2
+136,Smit,So - Peter Pan,2,10,61,58,256,Voetbal,geen
+137,Steenbergen,Bo - De Klimboom,3,6,83,62,775,Voetbal,3
+138,Hendriksen,Bo - De Klimboom,0,6,55,78,1728,Geen,geen
+139,"Laarhoven, van",Bso - De Giraffe,3,7,64,77,1102,Atletiek,2
+140,Hol,Bo - De Bongert,2,9,72,70,253,Geen,2
+141,Brouwer,Bo - De Ark,4,9,66,72,592,Voetbal,1
+142,Vermeer,Bo - De Klimboom,0,11,55,85,1956,Geen,3
+143,"Vegt, van der",So - Peter Pan,0,4,57,81,1335,Atletiek,2
+144,"Es, van",Bso - De Giraffe,4,10,57,82,1652,Geen,2
+145,Oerlemans,Bo - De Bongert,1,4,64,61,175,Geen,3
+146,"Kessel, van",Bo - De Klimboom,0,6,88,77,1767,Geen,1
+147,"Laar, van",Bo - De Klimboom,0,6,75,80,798,Atletiek,3
+148,"Sande, van de",Bo - De Klimboom,0,8,91,81,1903,Geen,1
+149,"Laan, van der",Bo - De Bongert,3,7,64,67,1216,Atletiek,2
+150,Weijers,Bo - De Klimboom,3,8,93,68,861,Geen,2
+151,Stoop,Bo - De Klimboom,1,8,88,89,1374,Voetbal,2
+152,Smeets,Bo - De Bongert,4,4,89,94,575,Basketball,2
+153,Roos,Bo - De Ark,3,10,70,90,758,Atletiek,2
+154,"Mourik, van",Bo - De Bongert,2,5,82,78,277,Geen,geen
+155,Jaspers,So - Peter Pan,1,9,70,71,1127,Geen,2
+156,Vissers,Bso - De Giraffe,0,8,87,84,935,Atletiek,2
+157,"Ooijen, van",Bo - De Bongert,3,10,84,75,1135,Voetbal,geen
+158,Reinders,Bo - De Ark,4,5,56,71,259,Geen,2
+159,Mulder,So - Peter Pan,4,9,56,84,1675,Atletiek,2
+160,"Deursen, van",Bso - De Giraffe,2,4,73,88,813,Basketball,1
+161,Reinders,Bo - De Klimboom,0,10,67,55,1820,Geen,3
+162,Steenbergen,Bo - De Ark,0,6,62,85,1009,Geen,geen
+163,Pennings,So - Peter Pan,3,11,62,68,481,Atletiek,2
+164,Verhagen,Bo - De Klimboom,0,4,55,94,1763,Atletiek,2
+165,"Oers, van",Bo - De Ark,1,7,91,61,1325,Geen,1
+166,Boon,Bso - De Giraffe,0,7,86,76,1732,Atletiek,2
+167,Lammers,Bso - De Giraffe,1,6,60,74,1182,Geen,2
+168,"Horst, van der",Bo - De Klimboom,0,7,82,73,912,Geen,2
+169,"Zwan, van der",Bso - De Giraffe,1,7,70,83,1092,Basketball,3
+170,Koopman,Bo - De Klimboom,0,8,55,72,1734,Basketball,3
+171,Willemsen,Bo - De Klimboom,4,8,91,88,880,Geen,2
+172,"Vos, de",So - Peter Pan,0,5,60,76,1087,Voetbal,1
+173,Molenaar,Bo - De Klimboom,4,10,77,70,1500,Basketball,2
+174,Vermeer,Bo - De Klimboom,3,8,66,82,1700,Voetbal,geen
+175,Aerts,Bo - De Bongert,1,8,78,76,340,Voetbal,3
+176,Hoogenboom,So - Peter Pan,0,6,77,56,1928,Geen,1
+177,"Bosch, van den",Bo - De Klimboom,1,7,68,67,1413,Geen,2
+178,Koot,Bo - De Ark,0,10,89,71,1879,Atletiek,3
+179,Brands,Bo - De Ark,0,6,66,92,727,Atletiek,3
+180,Lammers,Bo - De Klimboom,4,4,83,69,1450,Geen,1
+181,"Lierop, van",Bo - De Klimboom,2,6,80,84,1533,Basketball,2
+182,"Kooij, van der",Bo - De Klimboom,3,8,92,76,229,Voetbal,2
+183,Hulshof,Bso - De Giraffe,4,9,75,65,936,Geen,2
+184,Gorter,Bo - De Klimboom,0,6,80,95,1650,Atletiek,2
+185,Slot,Bo - De Klimboom,0,7,90,89,533,Voetbal,2
+186,Veerman,Bo - De Ark,2,10,82,87,367,Geen,3
+187,Peeters,Bso - De Giraffe,2,11,65,57,188,Basketball,2
+188,Manders,Bo - De Ark,1,8,82,75,1458,Geen,geen
+189,"Noort, van",Bso - De Giraffe,2,10,81,74,1446,Geen,2
+190,Drenth,Bo - De Ark,4,11,84,89,1650,Geen,2
+191,"Bie, de",Bo - De Klimboom,0,5,63,92,184,Geen,1
+192,Veldhuis,Bso - De Giraffe,1,10,62,76,1832,Basketball,2
+193,"Spek, van der",Bo - De Klimboom,2,4,93,75,1502,Voetbal,geen
+194,"Have, ten",Bo - De Klimboom,3,6,61,62,1320,Geen,geen
+195,"Delft, van",Bo - De Bongert,2,7,80,69,354,Geen,3
+196,"Hoek, van den",Bo - De Ark,2,4,59,62,1861,Atletiek,2
+197,"Zanden, van der",Bo - De Klimboom,4,8,55,78,1708,Voetbal,geen
+198,"Pelt, van",So - Peter Pan,0,5,79,71,577,Geen,2
+199,"Dorp, van",Bo - De Klimboom,2,4,72,75,1875,Geen,2
+200,Braam,Bo - De Klimboom,1,7,82,88,1209,Geen,3
+201,Bos,Bo - De Ark,3,11,72,77,945,Basketball,2
+202,"Wiel, van de",Bso - De Giraffe,2,10,91,85,1380,Atletiek,geen
+203,Versluis,Bso - De Giraffe,2,8,77,93,1209,Geen,2
+204,"Beers, van",Bo - De Ark,2,7,62,93,202,Geen,3
+205,Miedema,Bo - De Bongert,3,9,75,76,630,Geen,2
+206,"Jonge, de",So - Peter Pan,1,4,55,93,1480,Basketball,2
+207,Peeters,Bo - De Klimboom,1,9,87,88,53,Geen,2
+208,Kuijpers,Bo - De Klimboom,4,8,73,74,547,Voetbal,2
+209,"Burg, van der",Bo - De Ark,4,5,61,62,983,Voetbal,2
+210,Blok,Bso - De Giraffe,3,10,66,67,1046,Basketball,geen
+211,"Hollander, den",Bo - De Ark,4,11,90,70,1722,Geen,geen
+212,Sterk,Bo - De Klimboom,4,8,68,58,1011,Basketball,3
+213,Timmer,Bo - De Ark,2,9,55,80,941,Atletiek,2
+214,Bouwmeester,Bso - De Giraffe,4,4,94,70,1506,Geen,2
+215,"Zee, van der",So - Peter Pan,3,7,57,93,672,Basketball,geen
+216,Schepers,Bo - De Klimboom,0,10,81,64,1831,Atletiek,2
+217,Nieuwenhuis,Bo - De Bongert,3,6,91,69,1250,Voetbal,3
+218,Verburg,Bo - De Bongert,3,4,92,84,1113,Voetbal,2
+219,Bijlsma,So - Peter Pan,3,4,89,60,139,Geen,2
+220,"Brand, van den",Bo - De Bongert,0,10,89,92,1135,Atletiek,geen
+221,Schutte,Bo - De Bongert,0,10,82,64,608,Geen,geen
+222,Hulshof,Bso - De Giraffe,2,8,77,93,1278,Geen,1
+223,Kroeze,So - Peter Pan,2,7,76,61,1172,Basketball,2
+224,Lam,Bo - De Klimboom,3,7,64,90,1285,Geen,2
+225,Akkermans,Bso - De Giraffe,2,7,57,69,1080,Atletiek,geen
+226,Klok,Bo - De Bongert,1,9,77,59,1899,Geen,3
+227,Smid,Bo - De Ark,3,6,59,83,1433,Atletiek,2
+228,"Dijk, van",Bso - De Giraffe,1,4,90,76,657,Geen,1
+229,Hol,Bo - De Klimboom,4,10,80,76,75,Geen,1
+230,"Pelt, van",Bo - De Klimboom,2,11,77,66,760,Geen,3
+231,Zwaan,Bo - De Bongert,4,8,77,71,1447,Geen,2
+232,Hartog,So - Peter Pan,4,10,79,81,361,Geen,2
+233,Groenewegen,So - Peter Pan,1,9,73,79,1232,Voetbal,1
+234,Muller,Bo - De Ark,2,10,74,55,340,Geen,2
+235,"Oort, van",Bo - De Klimboom,4,8,77,86,1669,Geen,2
+236,Heeren,Bo - De Klimboom,4,6,76,59,1847,Geen,3
+237,"Santen, van",Bo - De Ark,3,4,77,87,67,Geen,2
+238,Haan,So - Peter Pan,2,5,73,68,81,Atletiek,2
+239,Akkerman,Bo - De Bongert,1,8,81,55,172,Geen,1
+240,"Zon, van",So - Peter Pan,1,10,94,55,770,Voetbal,geen
+241,"Ginkel, van",So - Peter Pan,1,6,72,83,623,Atletiek,1
+242,Vervoort,Bo - De Klimboom,1,11,74,64,1087,Geen,1
+243,Bruin,Bso - De Giraffe,4,11,65,90,1648,Geen,2
+244,"Meulen, van der",Bo - De Bongert,4,9,61,79,321,Atletiek,3
+245,Sterk,Bo - De Ark,0,8,93,84,51,Basketball,2
+246,Beumer,Bo - De Klimboom,3,10,86,93,1051,Atletiek,3
+247,Snijders,Bo - De Klimboom,0,4,88,75,1081,Geen,geen
+248,"Ven, van der",So - Peter Pan,0,8,72,88,1004,Geen,2
+249,Zwart,Bo - De Klimboom,4,6,58,57,1789,Geen,2
+250,Teunissen,Bo - De Klimboom,4,7,84,71,265,Geen,geen
+251,Koopman,Bo - De Bongert,1,9,71,78,1338,Basketball,geen
+252,Beumer,Bso - De Giraffe,4,4,61,59,805,Atletiek,2
+253,Slingerland,Bo - De Klimboom,2,6,92,81,690,Basketball,2
+254,"Vugt, van",So - Peter Pan,1,4,65,86,1361,Basketball,1
+255,Oomen,So - Peter Pan,3,11,95,95,1306,Basketball,2
+256,Wagenaar,Bo - De Ark,3,4,90,95,879,Atletiek,3
+257,Koolen,Bo - De Klimboom,4,9,92,83,845,Geen,geen
+258,Pronk,Bo - De Klimboom,4,9,73,56,645,Atletiek,2
+259,"Ven, van der",Bo - De Klimboom,4,6,89,56,1404,Basketball,geen
+260,Wessels,Bo - De Klimboom,3,6,61,73,1531,Atletiek,1
+261,"Herk, van",Bso - De Giraffe,4,9,62,78,380,Voetbal,2
+262,"Graaf, van de",Bo - De Bongert,0,6,93,79,906,Geen,2
+263,Hofstede,Bso - De Giraffe,2,4,62,55,1571,Basketball,2
+264,Groenendijk,So - Peter Pan,4,4,92,89,188,Basketball,2
+265,Brink,Bo - De Ark,2,11,92,65,1527,Geen,1
+266,Nijssen,Bso - De Giraffe,3,5,64,67,403,Basketball,2
+267,"Klerk, de",Bso - De Giraffe,1,7,72,72,1056,Atletiek,2
+268,Stam,Bso - De Giraffe,3,4,61,76,1547,Atletiek,1
+269,Linders,So - Peter Pan,3,7,89,81,853,Voetbal,3
+270,Kerkhof,Bso - De Giraffe,2,7,86,61,920,Voetbal,2
+271,"Beek, van",Bo - De Bongert,2,4,64,90,742,Geen,geen
+272,Derksen,Bo - De Ark,0,10,77,82,821,Basketball,2
+273,Roelofsen,So - Peter Pan,4,5,91,78,895,Geen,2
+274,Fransen,So - Peter Pan,1,5,86,62,653,Geen,1
+275,"Hartog, den",Bso - De Giraffe,4,6,79,76,665,Atletiek,geen
+276,Hageman,Bo - De Klimboom,1,4,76,74,345,Atletiek,2
+277,Akkermans,Bso - De Giraffe,4,9,92,78,1604,Geen,2
+278,"Ridder, de",Bo - De Klimboom,0,4,56,86,222,Atletiek,1
+279,"Keulen, van",Bo - De Ark,0,11,83,64,72,Geen,geen
+280,Vermeulen,Bo - De Klimboom,1,10,58,81,1110,Geen,geen
+281,Blok,Bso - De Giraffe,2,11,70,76,379,Voetbal,geen
+282,"Ruijter, de",Bo - De Ark,2,7,74,71,429,Voetbal,3
+283,Hof,Bo - De Klimboom,1,10,62,62,868,Basketball,3
+284,Koning,Bo - De Ark,0,9,78,57,1551,Voetbal,2
+285,Thomassen,Bo - De Klimboom,4,10,79,73,1412,Atletiek,2
+286,"Gent, van",Bo - De Ark,1,5,72,68,1302,Voetbal,3
+287,Franken,Bo - De Ark,3,9,66,60,497,Geen,2
+288,"Nijs, de",Bo - De Klimboom,1,9,57,59,1062,Atletiek,2
+289,"Velde, van de",Bo - De Bongert,3,9,95,64,884,Basketball,1
+290,Coenen,Bo - De Bongert,4,5,85,81,1802,Basketball,2
+291,"Iersel, van",Bo - De Bongert,4,7,92,57,700,Geen,1
+292,Linssen,Bo - De Ark,4,9,69,92,720,Atletiek,1
+293,"Erp, van",Bso - De Giraffe,3,4,62,65,257,Voetbal,1
+294,Koenders,Bo - De Klimboom,0,5,85,65,1935,Voetbal,1
+295,Scholten,Bo - De Klimboom,4,7,91,81,1363,Voetbal,2
+296,Stegeman,Bo - De Ark,0,6,82,94,331,Basketball,2
+297,"Velde, van der",Bo - De Ark,1,4,92,73,770,Voetbal,2
+298,Jacobs,Bo - De Klimboom,4,9,76,92,749,Voetbal,2
+299,Hermans,Bo - De Klimboom,2,8,75,66,1733,Voetbal,3
