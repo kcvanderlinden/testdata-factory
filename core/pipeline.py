@@ -2,13 +2,14 @@
 
 import yaml
 import pandas as pd
+import os
 
 import plugins.create
 import plugins.save
 import plugins.df_manipulation
 
 
-def read_config(filepath: str ="./data/config.yaml") -> dict:
+def read_config(filepath: str =os.getcwd()+"/data/config.yaml") -> dict:
     """
     Reads configuration file from a given path
     """
@@ -65,7 +66,7 @@ transformers = {
     }
 }
 
-def my_pipeline(config_filepath="./data/config.yaml", transformers=transformers):
+def my_pipeline(config_filepath=os.getcwd()+"/data/config.yaml", transformers=transformers):
     config = read_config(config_filepath) 
     dfs = {} # initialise an empty dictionary
     for step, step_config in config.items():

@@ -16,7 +16,7 @@ class PluginLoader:
         Finds plugins by looking in directory plugins/plugin_type
         Return a list of plugin locations
         """
-        path = f"./plugins/{self.plugin_type}/"
+        path = f"{os.getcwd()}/plugins/{self.plugin_type}/"
         dirs = os.listdir(path)
         plugins = [{"name": file, "plugin": f"plugins.{self.plugin_type}.{file}.{file}"} for file in dirs if os.path.isdir(f"{path}{file}") and os.path.isfile(f"{path}{file}/{file}.py")]
         return plugins
